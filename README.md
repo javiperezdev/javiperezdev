@@ -31,7 +31,7 @@ Estoy cursando el primer año del ciclo de grado superior y estoy muy apasionado
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[javiperezdev]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ### 📫 Contáctame
