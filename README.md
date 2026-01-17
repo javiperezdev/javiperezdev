@@ -22,7 +22,7 @@
   <br />
   <br />
 
-  <h3>⚡ Technical Arsenal</h3>
+  <h3> Technical Arsenal</h3>
   
   <table border="0">
     <tr>
@@ -32,6 +32,15 @@
       <td align="left">
         <img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/JAVASCRIPT-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/FRAMEWORKS-555?style=for-the-badge&logoColor=white" />
+      </td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       </td>
     </tr>
     <tr>
@@ -56,7 +65,7 @@
 
   <br />
 
-  <h3>🧬 Installing Updates...</h3>
+  <h3> Installing Updates...</h3>
   <p><i>Active R&D: <b>University of Helsinki's Full Stack Open</b></i></p>
 
 <table border="0">
@@ -65,9 +74,7 @@
         <img src="https://img.shields.io/badge/FRONTEND-2E91E3?style=for-the-badge&logoColor=white" />
       </td>
       <td align="left">
-        <img src="https://img.shields.io/badge/JAVASCRIPT-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/TYPESCRIPT-LOADING...-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/REACT-LOADING...-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/REDUX-PLANNED-764ABC?style=flat-square&logo=redux&logoColor=white" />
       </td>
     </tr>
