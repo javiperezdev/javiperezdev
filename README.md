@@ -1,22 +1,21 @@
 # Hi, I'm Javi Perez 👋 
+I am an AI Engineer dedicated to building highly concurrent systems, autonomous LLM agents, and data-driven infrastructure. I thrive at the intersection of traditional software development and artificial intelligence.
 
-📍 **Based in Murcia, Spain** I am a junior software developer with a strong bias toward action. I focus on building real-world solutions by exploring the intersection of robust backend architecture and Artificial Intelligence. 
+---
 
-### Currently Building: Assistantfy 
+### What I'm Up To Right Now
+* **Academic Excellence:** Finishing my Software Development Degree ([**DAM**](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html)) with **Cum Laude**.
+  
+* **Advanced Machine Learning:** Spending my summer mastering foundational and practical machine learning engineering. I am currently coding through Aurélien Géron's *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*, focusing on data preprocessing pipelines, evaluation metrics, and optimization algorithms.
+  
+* **Building Assistantfy:** I am the sole creator of an enterprise-grade B2B SaaS, fully autonomous virtual assistant backend designed to automate operations and live booking pipelines via WhatsApp.
 
-I am the sole developer of **Assistantfy**, an AI-powered WhatsApp Assistant designed for service-based businesses (clinics, salons) to automate bookings and customer service. 
-
-- 🏛️ **Architecture:** Multi-tenant database design (PostgreSQL) for scalability.
-- ⚙️ **Engine:** Asynchronous backend built with **FastAPI** and **SQLModel**.
-- 🧠 **Intelligence:** DeepSeek integrations for NLP, intent recognition, and contextual memory, acting as an autonomous agent.
-- 🔗 **Connectivity:** Meta's WhatsApp Cloud API for real-time webhooks and automated messaging.
-
-👉 **[Click here to see the project!](https://github.com/javiperezdev/assistantfy)** 
+👉 **[Click here to see the project!](https://github.com/javiperezdev/assistantfy)** ---
 
 ### 🛠️ Tech Stack & Tools
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,java,mysql,git,docker,postman,linux&theme=dark&perline=9" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,ts,react,docker,git,linux,postman,java,mysql&theme=dark&perline=6" alt="Tech Stack" />
   </a>
 </div>
 
@@ -24,7 +23,7 @@ I am the sole developer of **Assistantfy**, an AI-powered WhatsApp Assistant des
 
 ### 📫 Let's Talk!
 
-Actively looking for my first Junior/Trainee Backend role where I can bring my product-oriented mindset to a great engineering team.
+Actively looking for my first Junior/Trainee Backend or AI Engineering role where I can bring my product-oriented mindset to a great engineering team.
 
 <div align="center">
   <a href="https://es.linkedin.com/in/francisco-javier-p%C3%A9rez-pastor-544830385"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
