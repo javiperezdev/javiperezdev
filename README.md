@@ -4,13 +4,13 @@ I am an AI Engineer dedicated to building highly concurrent systems, autonomous 
 ---
 
 ### What I'm Up To Right Now
-* **Academic Excellence:** Finishing my Software Development Degree ([**DAM**](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html)) with **Cum Laude**.
+* **Academic Excellence:**</ins> Finishing my Software Development Degree ([**DAM**](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html)) with **Cum Laude**.
   
-* **Advanced Machine Learning:** Spending my summer mastering foundational and practical machine learning engineering. I am currently coding through Aurélien Géron's *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*, focusing on data preprocessing pipelines, evaluation metrics, and optimization algorithms.
-  
-* **Building Assistantfy:** I am the sole creator of an enterprise-grade B2B SaaS, fully autonomous virtual assistant backend designed to automate operations and live booking pipelines via WhatsApp.
-
-👉 **[Click here to see the project!](https://github.com/javiperezdev/assistantfy)** ---
+* **Founder of Assistantfy:** An enterprise-grade B2B SaaS that bridges autonomous AI orchestration with traditional business management. The product is split into two core environments:
+**AI Core & Async Backend:** An asynchronous engine powered by LLM-orchestrated agents that handle real-time customer operations, task execution, and calendar synchronization 24/7.
+**Management Platform (Frontend):** A comprehensive dashboard for business owners to visualize live data analytics, configure business logic, track agent metrics, and manage operations.
+  * **Tech Stack:** `FastAPI`, `React`, `TypeScript`, `Python`, `Redis`, `PostgreSQL`, `Docker`.
+  * *(Closed-source repository)*
 
 ### 🛠️ Tech Stack & Tools
 <div align="center">
