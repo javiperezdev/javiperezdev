@@ -1,36 +1,10 @@
-# Hi, I'm Javi Perez 👋 
-I am an AI Engineer dedicated to building highly concurrent systems, autonomous LLM agents, and data-driven infrastructure. I thrive at the intersection of traditional software development and artificial intelligence.
+# Hey there 👋
+I am Javi, a software developer based in Spain.
 
----
+I am interested in developing AI solutions, backed by a strong background in backend, web, mobile and desktop development. 
 
-### What I'm Up To Right Now
-* **Academic Excellence:**</ins> Finishing my Software Development Degree ([**DAM**](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html)) with **Cum Laude**.
-  
-* **Founder of Assistantfy:** An enterprise-grade B2B SaaS that bridges autonomous AI orchestration with traditional business management. The product is split into two core environments:
-**AI Core & Async Backend:** An asynchronous engine powered by LLM-orchestrated agents that handle real-time customer operations, task execution, and calendar synchronization 24/7.
-**Management Platform (Frontend):** A comprehensive dashboard for business owners to visualize live data analytics, configure business logic, track agent metrics, and manage operations.
-  * **Tech Stack:** `FastAPI`, `React`, `TypeScript`, `Python`, `Redis`, `PostgreSQL`, `Docker`.
-  * *(Closed-source repository)*
+My core stack is **FastAPI, PostgreSQL, and React**. I also work comfortably with Java and Kotlin, and I pride myself on adapting quickly to new technologies and tools. 
 
-### 🛠️ Tech Stack & Tools
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,ts,react,docker,git,linux,postman,java,mysql&theme=dark&perline=6" alt="Tech Stack" />
-  </a>
-</div>
+Outside of coding, I enjoy working out, connecting with new people, and learning languages (I hold a C1 in English and I am currently working towards my German A2).
 
-<br>
-
-### 📫 Let's Talk!
-
-Actively looking for my first Junior/Trainee Backend or AI Engineering role where I can bring my product-oriented mindset to a great engineering team.
-
-<div align="center">
-  <a href="https://es.linkedin.com/in/francisco-javier-p%C3%A9rez-pastor-544830385"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:javiperezdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=javiperezdev&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
-</div>
+At the moment I don't have much public repositories but I am really proud of [**Assistantfy**](https://github.com/javiperezdev/assistantfy).
